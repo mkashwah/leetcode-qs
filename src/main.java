@@ -15,12 +15,14 @@ public class main {
 //        System.out.println(rn.revNumber(1552));
 
         //palindromeNumber(int x) test
-        palindromeNumber pN = new palindromeNumber();
+//        palindromeNumber pN = new palindromeNumber();
+//
+//        System.out.println(pN.isPalindrome(1551));      //should return true
+//        System.out.println(pN.isPalindrome(9));         //should return true
+//        System.out.println(pN.isPalindrome(123));       //should return false
+//        System.out.println(pN.isPalindrome(-121));      //should return false
 
-        System.out.println(pN.isPalindrome(1551));      //should return true
-        System.out.println(pN.isPalindrome(9));         //should return true
-        System.out.println(pN.isPalindrome(123));       //should return false
-        System.out.println(pN.isPalindrome(-121));      //should return false
+
 
 
     }
